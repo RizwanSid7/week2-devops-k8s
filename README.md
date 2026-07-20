@@ -82,6 +82,11 @@ minikube service week2-web-service
 
 ## Docker Image Registry Link
 
+<<<<<<< HEAD
+=======
+Docker Hub image link will be added after pushing the image to Docker Hub.
+
+>>>>>>> 2aa5270 (Updated Docker Hub image link)
 https://hub.docker.com/r/rizwan268/week2-web-app
 
 ## Screenshots Included
